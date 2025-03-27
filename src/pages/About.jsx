@@ -1,6 +1,5 @@
 import Navbar from "../components/Navbar"
 import Spline from "@splinetool/react-spline"
-import { motion } from "framer-motion"
 import Footer from '../components/Footer'
 import Timeline from "../components/Timeline"
 import '../index.css'

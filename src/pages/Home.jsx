@@ -1,7 +1,5 @@
 import '.././index.css'
-import SkillBox from '../components/stacks/SkillBox' 
 import Spline from '@splinetool/react-spline'
-import AppBarMui from '../components/AppBarMui'
 import GitHubHeatmap from '../components/GithubHeatMap'
 import Navbar from "../components/Navbar"
 import { motion } from "framer-motion";
